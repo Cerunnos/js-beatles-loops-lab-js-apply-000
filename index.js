@@ -9,7 +9,7 @@ function johnLennonFacts(facts){
   let i=0
   let alteredFacts=[]
   while(i<facts.length){
-    alteredFacts.push(`${facts[i]}!!!`)
+    alteredFacts.push(`${facts[i]}+!!!`)
   }
   return alteredFacts
 }
