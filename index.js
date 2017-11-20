@@ -15,5 +15,5 @@ function johnLennonFacts(facts){
   return alteredFacts
 }
 functions iLoveTheBeatles(n){
-  
+  let emptyArray2=
 }
