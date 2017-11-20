@@ -15,5 +15,9 @@ function johnLennonFacts(facts){
   return alteredFacts
 }
 functions iLoveTheBeatles(n){
-  let emptyArray2=
+  let emptyArray2=[]
+  do{
+    emptyArray2.push('I love the Beatles!')
+    n++
+  }while(n<15)
 }
