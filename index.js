@@ -20,4 +20,5 @@ functions iLoveTheBeatles(n){
     emptyArray2.push('I love the Beatles!')
     n++
   }while(n<15)
+  return emptyArray2
 }
