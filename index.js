@@ -6,8 +6,8 @@ function theBeatlesPlay(musicians,instruments){
   return emptyArray1
 }
 function johnLennonFacts(facts){
-  let i=0
   let alteredFacts=[]
+  let i=0
   while(i<facts.length){
     alteredFacts.push(`${facts[i]}+!!!`)
   }
